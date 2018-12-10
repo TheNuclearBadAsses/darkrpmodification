@@ -140,7 +140,7 @@ TEAM_AFK = DarkRP.createJob("AFK", {
     end,
     sortorder = 2,
 })
---[[
+*/
 TEAM_WINEDISTILLER = DarkRP.createJob("Wine Distiller", {
     color = Color( 139, 69, 19, 255),
     model = {"models/player/Group01/Female_01.mdl","models/player/Group01/Female_02.mdl","models/player/Group01/Female_03.mdl","models/player/Group01/Female_04.mdl","models/player/Group01/Female_06.mdl","models/player/group01/male_01.mdl","models/player/Group01/Male_02.mdl","models/player/Group01/male_03.mdl","models/player/Group01/Male_04.mdl","models/player/Group01/Male_05.mdl","models/player/Group01/Male_06.mdl","models/player/Group01/Male_07.mdl","models/player/Group01/Male_08.mdl","models/player/Group01/Male_09.mdl"},
@@ -169,7 +169,7 @@ TEAM_ALCOHOLDISTILLER = DarkRP.createJob("Alcohol Distiller", {
     category = "Citizens",
     sortorder = 2,
 })
---]]
+/*
 TEAM_FAKEADMIN = DarkRP.createJob("Fake-Admin On Duty", {
     color = Color( 255, 0, 130, 255),
     model = {"models/kaesar/blackpanther/blackpanther.mdl","models/player/anon/anon.mdl","models/player/bobert/hqrevenge.mdl","models/kryptonite/inf_blackwidow/inf_blackwidow.mdl","models/kryptonite/inj2_wonderwoman/inj2_wonderwoman.mdl","models/npc/tfa_ak_batman_beyond.mdl","models/kryptonite/inj2_ios_deadshot/inj2_ios_deadshot.mdl","models/player/bobert/mhslgog.mdl","models/player/bobert/mhammc.mdl","models/kryptonite/inj2_cyborg/inj2_cyborg.mdl","models/kryptonite/bvs_superman/inj_superman.mdl"},
